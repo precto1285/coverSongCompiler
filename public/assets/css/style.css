@@ -1,0 +1,7 @@
+.container-fluid{
+    margin-top: 5%;
+    padding: 2.5%;
+    background-color: grey;
+    border: solid;
+    border-radius: 35px;
+}
