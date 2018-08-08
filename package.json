@@ -1,0 +1,28 @@
+{
+  "name": "coversongcompiler",
+  "version": "1.0.0",
+  "description": "Song Organizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/precto1285/coverSongCompiler.git"
+  },
+  "keywords": [
+    "Song"
+  ],
+  "author": "Philippe Recto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/precto1285/coverSongCompiler/issues"
+  },
+  "homepage": "https://github.com/precto1285/coverSongCompiler#readme",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.38.0",
+    "sequelize-cli": "^4.0.0"
+  }
+}
